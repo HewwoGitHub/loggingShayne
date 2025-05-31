@@ -3,3 +3,8 @@
 [2025-05-31 22:16:37] [hewwo_berry]: gl with that <@SKIBIDI SHAYNE😼>
 [2025-05-31 22:18:02] [hewwo_berry]: btw ur fully aware there is a kick button right? im just gonna 3rd wheel from now on
 [2025-05-31 23:39:01] [automod#0000]: 
+[2025-05-31 23:39:02] [Community Updates#0001]: This channel has been set up to receive official Discord announcements for admins and moderators of Community servers. We'll let you know about important updates, such as new moderation features or changes to your server's eligibility for Server Discovery, here.
+
+You can change which channel these messages are sent to at any time inside Server Settings. We recommend choosing your staff channel, as some information may be sensitive to your server.
+
+Thanks for choosing Discord as the place to build your community!
