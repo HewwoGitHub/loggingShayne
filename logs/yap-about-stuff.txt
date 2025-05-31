@@ -6086,3 +6086,4 @@ _
 [2025-06-01 00:38:57] [theoneandonlyshayne]: FROM BIO
 [2025-06-01 00:39:01] [theoneandonlyshayne]: ?
 [2025-06-01 00:39:03] [theoneandonlyshayne]: We're not
+[2025-06-01 00:39:10] [hewwo_berry]: CAP
