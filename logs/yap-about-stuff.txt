@@ -5350,3 +5350,4 @@ _
 [2025-05-31 20:02:49] [hewwo_berry]: So you got kicked from a game. Assuming she is mad at you, you try to explain. She plays mimic without you. Thats why?
 [2025-05-31 20:03:00] [theoneandonlyshayne]: Yes
 [2025-05-31 20:03:03] [theoneandonlyshayne]: She didn't even text me
+[2025-05-31 20:03:07] [theoneandonlyshayne]: She probably saw my msg
