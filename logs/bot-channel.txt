@@ -186,3 +186,4 @@
 [2025-06-06 01:27:52] [Jockie Music#8158]: 
 [2025-06-06 01:28:26] [theoneandonlyshayne]: M!play https://youtu.be/_WNJu-yZO14?si=OHIuLXcD7MCAKJhj
 [2025-06-06 01:28:27] [Jockie Music#8158]: 
+[2025-06-06 01:28:29] [theoneandonlyshayne]: M!skip
