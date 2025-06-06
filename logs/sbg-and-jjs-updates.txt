@@ -32,3 +32,4 @@
 • Fixed Strongest of History's arms not being animated when chanting
 • Fixed Roulette not displaying your rewards being capped at 50$
 <@&1275612395720540171>
+[2025-06-06 15:07:47] [hewwo_berry]: Fuxkign finally
