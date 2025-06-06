@@ -1,0 +1,34 @@
+[2025-06-06 15:07:32] [theoneandonlyshayne]: v1.57.1
+[ DEFENSE ATTORNEY ]
+• Defense Attorney is now available to the public
+• Added 1 new awakening skill (Verdict)
+• Added 1 new awakening skill (Triple Sentence)
+• Added new awakening special (Domain Amplification)
+• Awakening with 2 sentences now adds 15s to your awakening duration
+ 
+[ PERFORMANCE ]
+• Added 1 new performance setting (Ragdoll SFX)
+• Optimized the search speed for achievements
+• Optimized movement speed handling
+ 
+[ ROULETTE ]
+• PFT's timer now caps at 2 minutes
+• Decreased the amount of time gained per kill in PFT to 45s
+• Strongest of History can no longer regenerate by bursting
+ 
+[ BUG FIXES ]
+• Fixed mobile users not being able to win the QTE for Final Judgement
+• Fixed release property not being saved for custom skills
+• Fixed loop setting not working for custom skills
+• Fixed random option for moveset blocks not working
+• Fixed elo not being gained in ranked matches
+• Fixed rhythm not speeding up moves
+• Fixed weekly leaderboard not updating
+• Fixed a flinging issue with Paradise2
+• Fixed getting stuck viewing a MVP screen during roulette
+• Fixed custom moves not reaching certain requirements to activate
+• Fixed being able to survive black hole if friendly fire is disabled
+• Fixed Mahoraga being teleported when ragdolled
+• Fixed Strongest of History's arms not being animated when chanting
+• Fixed Roulette not displaying your rewards being capped at 50$
+<@&1275612395720540171>
