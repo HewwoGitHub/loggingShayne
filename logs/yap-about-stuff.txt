@@ -7595,3 +7595,4 @@ Command: </random:1272485059353640963>
 Background: from video
 Model: V3-beta
 Explore more features at [viggle ai](https://viggle.ai/) [Attachments: https://cdn.discordapp.com/attachments/1174883790770950218/1380679410151329873/video.mp4?ex=6844c167&is=68436fe7&hm=30df956aaf2a98dc2f86b85ee4bd38d864fd22d47d9fae036deb86da118bf10e& https://cdn.discordapp.com/attachments/1174883790770950218/1380679410595926116/image.png?ex=6844c167&is=68436fe7&hm=1f79e683726d16e09689f8ba4ca7cce8dfb4dc725c6b68c1d04e7f5f327ff0ef&]
+[2025-06-07 00:47:20] [theoneandonlyshayne]: Wtf bro
