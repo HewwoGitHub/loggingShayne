@@ -7720,3 +7720,4 @@ A COLOR
 [2025-06-07 23:32:48] [theoneandonlyshayne]: Because of build mode
 [2025-06-07 23:32:55] [theoneandonlyshayne]: Yea
 [2025-06-07 23:32:57] [theoneandonlyshayne]: It's 500
+[2025-06-07 23:33:12] [theoneandonlyshayne]: While early access is 300
