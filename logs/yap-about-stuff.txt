@@ -7744,3 +7744,4 @@ A COLOR
 [2025-06-08 01:07:09] [theoneandonlyshayne]: Practice on a player
 [2025-06-08 01:07:12] [theoneandonlyshayne]: Dummy has 0 ping
 [2025-06-08 01:12:19] [hewwo_berry]: since when was there a sorcerer?
+[2025-06-08 01:12:26] [theoneandonlyshayne]: Always
